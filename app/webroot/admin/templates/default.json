@@ -1,0 +1,1007 @@
+{
+    "Radio" :
+    {
+        "about"       : "Aqui você podera inserir o texto sobre a sua rádio, basta dar dois cliques sobre o texto ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "city"        : "Pelotas",
+        "state"       : "RS",
+        "facebook"    : "https://www.facebook.com/FacebookDevelopers",
+        "twitter"     : "https://twitter.com/twitter",
+        "instagram"   : "https://instagram.com/instagram/",
+        "google_plus" : "https://plus.google.com/+googleplus/posts",
+        "email"       : "email@email.com",
+        "theme_soul"  : "white",
+        "theme_file"  : "{theme_file}",
+        "rss"         : "g1",
+        "autoplay"    : 1
+    },
+    "TopTen" :
+    [
+        {
+            "music"    : "Stay With Me",
+            "artist"   : "Sam Smith",
+            "position" : 1
+        },
+        {
+            "music"    : "7/11",
+            "artist"   : "Beyoncé",
+            "position" : 2
+        },
+        {
+            "music"    : "Jealous",
+            "artist"   : "Nick Jonas",
+            "position" : 3
+        },
+        {
+            "music"    : "See You Again",
+            "artist"   : "Wiz Khalifa",
+            "position" : 4
+        },
+        {
+            "music"    : "Love Me Like You Do",
+            "artist"   : "Ellie Goulding",
+            "position" : 5
+        },
+        {
+            "music"    : "Stay With Me",
+            "artist"   : "Sam Smith",
+            "position" : 6
+        },
+        {
+            "music"    : "7/11",
+            "artist"   : "Beyoncé",
+            "position" : 7
+        },
+        {
+            "music"    : "Jealous",
+            "artist"   : "Nick Jonas",
+            "position" : 8
+        },
+        {
+            "music"    : "See You Again",
+            "artist"   : "Wiz Khalifa",
+            "position" : 9
+        },
+        {
+            "music"    : "Love Me Like You Do",
+            "artist"   : "Ellie Goulding",
+            "position" : 10
+        }
+    ],
+    "Slider" :
+    [
+        {
+            "title" : "Ingressos para Dimitre Vegas"
+        },
+        {
+            "title" : "Concorra a games"
+        },
+        {
+            "title" : "Rock in Rio"
+        },
+        {
+            "title" : "Foo Fighters"
+        }
+    ],
+    "MonthArtist" :
+    {
+        "name"        : "MAGIC!",
+        "description" : "Banda tocou pela primeira vez no Brasil no palco do SPMF."
+    },
+    "Announcer" :
+    [
+        {
+            "name" : "Raquel de Oliveira"
+        },
+        {
+            "name" : "Filipe Carvalho"
+        },
+        {
+            "name" : "Marcelo Moraes"
+        },
+        {
+            "name" : "Juliana Martins"
+        }
+    ],
+    "Poll" :
+    {
+        "question" : "Que estilo musica você mais curte?",
+        "options"  : "[\"Rock\", \"Pop\", \"Pagode\", \"Sertanejo\", \"Funk\"]",
+        "answers"  : "[0, 0, 0, 0, 0]"
+    },
+    "Banner" :
+    [
+        {
+            "type"     : "header",
+            "position" : 1
+        },
+        {
+            "type"     : "footer",
+            "position" : 1
+        },
+        {
+            "type"     : "gallery",
+            "position" : 1
+        },
+        {
+            "type"     : "sidebar",
+            "position" : 1
+        },
+        {
+            "type"     : "sidebar",
+            "position" : 2
+        },
+        {
+            "type"     : "sidebar",
+            "position" : 3
+        },
+        {
+            "type"     : "block",
+            "position" : 1
+        },
+        {
+            "type"     : "block",
+            "position" : 2
+        },
+        {
+            "type"     : "block",
+            "position" : 3
+        }
+    ],
+    "Event" :
+    [
+        {
+            "name"  : "Show da Madonna",
+            "hour"  : "19:00",
+            "date"  : "2015-09-21",
+            "local" : "Nome do local"
+        },
+        {
+            "name"  : "Show do Jay Z",
+            "hour"  : "19:00",
+            "date"  : "2015-10-03",
+            "local" : "Nome do local"
+        },
+        {
+            "name"  : "Show do Metallica",
+            "hour"  : "19:00",
+            "date"  : "2015-10-15",
+            "local" : "Nome do local"
+        },
+        {
+            "name"  : "Show da Foo Fighters",
+            "hour"  : "19:00",
+            "date"  : "2015-11-01",
+            "local" : "Nome do local"
+        }
+    ],
+    "News" :
+    [
+        {
+            "title"       : "Katy Perry pode lançar faixa em resposta à Taylor Swift",
+            "description" : "Uma música intitulada “1984” foi registrada e ela é a interprete. Não é de hoje que Katy Perry e Taylor Swift não se dão bem. A briga entre as duas é de conhecimento público e elas vivem de bicando por aí. Recentemente, Tay lançou o clipe de “Bad Blood”, uma música que fala sobre uma briga dela com outra estrela do pop, e agora pode ter sua resposta. A morena já havia dito, durante o Super Bowl, em fevereiro, que não iria aguentar provocações calada e pode, enfim, quebrar o silêncio dessa vez. Uma faixa com o nome de “1984” foi registrada no BMI Repertories, assinada por quatro compositores e, segundo o sistema, tem Katy como interprete. Não se sabe ou não se essa seria realmente a resposta de Katy, mas é um pouco difícil acreditar que seja apenas uma coincidência, certo? Katy Perry vem ao Brasil em setembro com a “Prismatic Tour”, com três shows marcados, por enquanto, e irá lançar o DVD da turnê no segundo semestre."
+        },
+        {
+            "title"       : "David Guetta fala sobre álbum “Listen” e turnê no Brasil",
+            "description" : "O francês David Guetta está às vésperas de uma grande turnê pelo Brasil, que acontece em janeiro. A Rádio Mix bateu um papo com o cara sobre o novo álbum que ele vem divulgar, “Listen”, as parcerias que mais empolgaram o DJ e o que ele espera para a grande festa que vai rolar por aqui, logo no início do ano."
+        },
+        {
+            "title"       : "Demi Lovato deve lançar novas músicas nas próximas semanas",
+            "description" : "Depois de uma espera bem longa pelo sucessor do álbum “DEMI”, os fãs de Demi Lovato ouvirão inéditas em breve. Durante sua apresentação no festival DigiFest, em Nova York, a cantora prometeu para a plateia que irá lançar novas músicas durante as próximas semanas, para aproveitar o verão norte-americano que começa esse mês. “Vai ser um verão realmente emocionante para os meus fãs, eu mal posso esperar para vocês ouvirem músicas novas!”, disse."
+        },
+        {
+            "title"       : "Equipe de Iggy Azalea explica cancelamento de turnê",
+            "description" : "A equipe da rapper explicou o motivo e disse que não foi por pouca venda de ingressos. A turnê “The Great Escape” de Iggy Azalea foi cancelada semana passada. Ela já havia adiado as datas, trocando o mês de abril pelo de setembro para a estreia, mas acabou colocando um ponto final em sua primeira tour de arenas. De acordo com a rapper, era esperado muito dessa turnê, inclusive pela própria Iggy, e as coisas acabaram não saindo de acordo com o que ela queria, por isso concluiu que ainda não estava pronta para uma série de shows em arenas, já tendo adiado as datas."
+        }
+    ],
+    "Promotion" :
+    [
+        {
+            "name"        : "Apple Watch + iPhone 6",
+            "title"       : "Em dose dupla: um pra você e outro pra quem você quiser",
+            "description" : "Pra participar, é só seguir a Mix no Instagram, curtir a foto da promoção e marcar o amigo ou amiga que vai levar o Apple Watch + iPhone 6 com você. O resultado:  dia 08 de maio, durante a segunda edição do Top Mix Express ao meio-dia!"
+        },
+        {
+            "name"        : "Once Upon A Time",
+            "title"       : "Te levavamos para a convenção da série americana, Once Upon A Time!",
+            "description" : "Você e seu acompanhante irão ter entradas exclusivas Mix para o evento, com direito às atividades do painel e pegar autógrafos com todos os atores presentes. Para participar, é só usar a hashtag #OUATnaMix no Twitter. O resultado rola no dia 21 de junho."
+        }
+    ],
+    "Schedule" :
+    [
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 0
+        },
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 1
+        },
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 2
+        },
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 3
+        },
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 4
+        },
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 5
+        },
+        {
+            "name"         : "Madrugadão",
+            "initial_hour" : "00:00",
+            "final_hour"   : "06:30",
+            "week_day"     : 6
+        },
+        {
+            "name"         : "Toca todas",
+            "initial_hour" : "06:31",
+            "final_hour"   : "09:00",
+            "week_day"     : 6
+        },
+        {
+            "name"         : "Get UP",
+            "initial_hour" : "09:01",
+            "final_hour"   : "12:00",
+            "week_day"     : 6
+        },
+        {
+            "name"         : "Clássicas do Rock",
+            "initial_hour" : "12:01",
+            "final_hour"   : "14:00",
+            "week_day"     : 6
+        },
+        {
+            "name"         : "Discorama",
+            "initial_hour" : "14:01",
+            "final_hour"   : "16:00",
+            "week_day"     : 6
+        },
+        {
+            "name"         : "Sintonia Fina",
+            "initial_hour" : "16:01",
+            "final_hour"   : "19:00",
+            "week_day"     : 6
+        },
+        {
+            "name"         : "Hot Night",
+            "initial_hour" : "19:01",
+            "final_hour"   : "23:59",
+            "week_day"     : 6
+        }
+    ],
+    "Video" :
+    [
+        {
+            "url"  : "https://www.youtube.com/watch?v=uuZE_IRwLNI",
+            "type" : "youtube"
+        },
+        {
+            "url"  : "https://www.youtube.com/watch?v=3MteSlpxCpo",
+            "type" : "youtube"
+        },
+        {
+            "url"  : "https://vimeo.com/129115072",
+            "type" : "vimeo"
+        },
+        {
+            "url"  : "https://vimeo.com/128220586",
+            "type" : "vimeo"
+        }
+    ],
+    "Gallery" :
+    [
+        {
+            "name" : "Galeria 1"
+        },
+        {
+            "name" : "Galeria 2"
+        },
+        {
+            "name" : "Galeria 3"
+        },
+        {
+            "name" : "Galeria 4"
+        },
+        {
+            "name" : "Galeria 5"
+        }
+    ],
+    "Attach" :
+    [
+        {
+            "filename"      : "templates/default/radio-logo.png",
+            "original_name" : "templates/default/radio-logo.png",
+            "model"         : "Radio",
+            "foreign_key"   : "radio_id",
+            "type"          : "logo",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/radio-favicon.gif",
+            "original_name" : "templates/default/radio-favicon.gif",
+            "model"         : "Radio",
+            "foreign_key"   : "radio_id",
+            "type"          : "favicon",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/radio-about.jpg",
+            "original_name" : "templates/default/radio-about.jpg",
+            "model"         : "Radio",
+            "foreign_key"   : "radio_id",
+            "type"          : "about_image",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/bg.jpg",
+            "original_name" : "templates/default/bg.jpg",
+            "model"         : "Radio",
+            "foreign_key"   : "radio_id",
+            "type"          : "background",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/slider-0.jpg",
+            "original_name" : "templates/default/slider-0.jpg",
+            "model"         : "Slider",
+            "foreign_key"   : "slider_id.0",
+            "type"          : "slider",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/slider-1.jpg",
+            "original_name" : "templates/default/slider-1.jpg",
+            "model"         : "Slider",
+            "foreign_key"   : "slider_id.1",
+            "type"          : "slider",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/slider-2.jpg",
+            "original_name" : "templates/default/slider-2.jpg",
+            "model"         : "Slider",
+            "foreign_key"   : "slider_id.2",
+            "type"          : "slider",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/slider-3.jpg",
+            "original_name" : "templates/default/slider-3.jpg",
+            "model"         : "Slider",
+            "foreign_key"   : "slider_id.3",
+            "type"          : "slider",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/month-artist.png",
+            "original_name" : "templates/default/month-artist.png",
+            "model"         : "MonthArtist",
+            "foreign_key"   : "month_artist_id",
+            "type"          : "month_artist",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/announcer-0.jpg",
+            "original_name" : "templates/default/announcer-0.jpg",
+            "model"         : "Announcer",
+            "foreign_key"   : "announcer_id.0",
+            "type"          : "announcer",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/announcer-1.jpg",
+            "original_name" : "templates/default/announcer-1.jpg",
+            "model"         : "Announcer",
+            "foreign_key"   : "announcer_id.1",
+            "type"          : "announcer",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/announcer-2.jpg",
+            "original_name" : "templates/default/announcer-2.jpg",
+            "model"         : "Announcer",
+            "foreign_key"   : "announcer_id.2",
+            "type"          : "announcer",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/announcer-3.jpg",
+            "original_name" : "templates/default/announcer-3.jpg",
+            "model"         : "Announcer",
+            "foreign_key"   : "announcer_id.3",
+            "type"          : "announcer",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-header.jpg",
+            "original_name" : "templates/default/banner-header.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.header",
+            "type"          : "header",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-footer.jpg",
+            "original_name" : "templates/default/banner-footer.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.footer",
+            "type"          : "footer",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-gallery.jpg",
+            "original_name" : "templates/default/banner-gallery.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.gallery",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-sidebar-0.jpg",
+            "original_name" : "templates/default/banner-sidebar-0.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.sidebar.0",
+            "type"          : "sidebar",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-sidebar-1.jpg",
+            "original_name" : "templates/default/banner-sidebar-1.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.sidebar.1",
+            "type"          : "sidebar",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-sidebar-2.jpg",
+            "original_name" : "templates/default/banner-sidebar-2.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.sidebar.2",
+            "type"          : "sidebar",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-block-0.jpg",
+            "original_name" : "templates/default/banner-block-0.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.block.0",
+            "type"          : "block",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-block-1.jpg",
+            "original_name" : "templates/default/banner-block-1.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.block.1",
+            "type"          : "block",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/banner-block-2.jpg",
+            "original_name" : "templates/default/banner-block-2.jpg",
+            "model"         : "Banner",
+            "foreign_key"   : "banner_id.block.2",
+            "type"          : "block",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/event-0.jpg",
+            "original_name" : "templates/default/event-0.jpg",
+            "model"         : "Event",
+            "foreign_key"   : "event_id.0",
+            "type"          : "event",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/event-1.jpg",
+            "original_name" : "templates/default/event-1.jpg",
+            "model"         : "Event",
+            "foreign_key"   : "event_id.1",
+            "type"          : "event",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/event-2.jpg",
+            "original_name" : "templates/default/event-2.jpg",
+            "model"         : "Event",
+            "foreign_key"   : "event_id.2",
+            "type"          : "event",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/event-3.jpg",
+            "original_name" : "templates/default/event-3.jpg",
+            "model"         : "Event",
+            "foreign_key"   : "event_id.3",
+            "type"          : "event",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/new-0.jpg",
+            "original_name" : "templates/default/new-0.jpg",
+            "model"         : "News",
+            "foreign_key"   : "new_id.0",
+            "type"          : "new",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/new-1.jpg",
+            "original_name" : "templates/default/new-1.jpg",
+            "model"         : "News",
+            "foreign_key"   : "new_id.1",
+            "type"          : "new",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/new-2.jpg",
+            "original_name" : "templates/default/new-2.jpg",
+            "model"         : "News",
+            "foreign_key"   : "new_id.2",
+            "type"          : "new",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/new-3.jpg",
+            "original_name" : "templates/default/new-3.jpg",
+            "model"         : "News",
+            "foreign_key"   : "new_id.3",
+            "type"          : "new",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/promotion-0.jpg",
+            "original_name" : "templates/default/promotion-0.jpg",
+            "model"         : "Promotion",
+            "foreign_key"   : "promotion_id.0",
+            "type"          : "promotion",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/promotion-1.jpg",
+            "original_name" : "templates/default/promotion-1.jpg",
+            "model"         : "Promotion",
+            "foreign_key"   : "promotion_id.1",
+            "type"          : "promotion",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-0-0.jpg",
+            "original_name" : "templates/default/gallery-0-0.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.0",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-0-1.jpg",
+            "original_name" : "templates/default/gallery-0-1.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.0",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-0-2.jpg",
+            "original_name" : "templates/default/gallery-0-2.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.0",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-0-3.jpg",
+            "original_name" : "templates/default/gallery-0-3.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.0",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-0-4.jpg",
+            "original_name" : "templates/default/gallery-0-4.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.0",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-1-0.jpg",
+            "original_name" : "templates/default/gallery-1-0.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.1",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-1-1.jpg",
+            "original_name" : "templates/default/gallery-1-1.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.1",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-1-2.jpg",
+            "original_name" : "templates/default/gallery-1-2.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.1",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-1-3.jpg",
+            "original_name" : "templates/default/gallery-1-3.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.1",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-1-4.jpg",
+            "original_name" : "templates/default/gallery-1-4.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.1",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-2-0.jpg",
+            "original_name" : "templates/default/gallery-2-0.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.2",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-2-1.jpg",
+            "original_name" : "templates/default/gallery-2-1.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.2",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-2-2.jpg",
+            "original_name" : "templates/default/gallery-2-2.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.2",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-2-3.jpg",
+            "original_name" : "templates/default/gallery-2-3.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.2",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-2-4.jpg",
+            "original_name" : "templates/default/gallery-2-4.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.2",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-3-0.jpg",
+            "original_name" : "templates/default/gallery-3-0.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.3",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-3-1.jpg",
+            "original_name" : "templates/default/gallery-3-1.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.3",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-3-2.jpg",
+            "original_name" : "templates/default/gallery-3-2.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.3",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-3-3.jpg",
+            "original_name" : "templates/default/gallery-3-3.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.3",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-3-4.jpg",
+            "original_name" : "templates/default/gallery-3-4.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.3",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-4-0.jpg",
+            "original_name" : "templates/default/gallery-4-0.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.4",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-4-1.jpg",
+            "original_name" : "templates/default/gallery-4-1.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.4",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-4-2.jpg",
+            "original_name" : "templates/default/gallery-4-2.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.4",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-4-3.jpg",
+            "original_name" : "templates/default/gallery-4-3.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.4",
+            "type"          : "gallery",
+            "size"          : "0"
+        },
+        {
+            "filename"      : "templates/default/gallery-4-4.jpg",
+            "original_name" : "templates/default/gallery-4-4.jpg",
+            "model"         : "Gallery",
+            "foreign_key"   : "gallery_id.4",
+            "type"          : "gallery",
+            "size"          : "0"
+        }
+    ],
+    "Theme" :
+    {
+        "background" : "templates/default/bg.jpg",
+        "main_color" : "#ee1847"
+    }
+}

@@ -1,0 +1,12 @@
+.customBG { background-color: main_color; }
+.customBorder { border-color: main_color; }
+.editLayer .toltip:before { border-bottom-color: main_color; }
+.dense.d468-60 .editLayer .toltip:before { border-left-color: main_color; }
+.container .menu ul li.open div:after { border-color: main_color; }
+.dense.d468-60 .editLayer .link .toltip:before { border-right-color: main_color; }
+
+body .customColor,
+.footer .socialIcons li a:hover i,
+.editLayer>div ul li a:hover {
+    color: main_color;
+}
